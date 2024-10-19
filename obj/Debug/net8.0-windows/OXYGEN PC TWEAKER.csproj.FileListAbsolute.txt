@@ -1,0 +1,25 @@
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\OXYGEN PC TWEAKER.exe
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\OXYGEN PC TWEAKER.deps.json
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\OXYGEN PC TWEAKER.runtimeconfig.json
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\OXYGEN PC TWEAKER.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\OXYGEN PC TWEAKER.pdb
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN_PC_TWEAKER.Form1.resources
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN_PC_TWEAKER.Properties.Resources.resources
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.csproj.GenerateResource.cache
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.AssemblyInfoInputs.cache
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.AssemblyInfo.cs
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.csproj.CoreCompileInputs.cache
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\refint\OXYGEN PC TWEAKER.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.pdb
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.genruntimeconfig.cache
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\ref\OXYGEN PC TWEAKER.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN PC TWEAKER.csproj.AssemblyReference.cache
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\obj\Debug\net8.0-windows\OXYGEN P.95B1D6BC.Up2Date
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\xvani\source\repos\OXYGEN PC TWEAKER\OXYGEN PC TWEAKER\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
