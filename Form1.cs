@@ -668,23 +668,6 @@ namespace OXYGEN_PC_TWEAKER
                 DisableFilterKeys();
             }
 
-
-
-
-
-
-            static void SendMs(string message)
-            {
-                string webhook = "https://discord.com/api/webhooks/1289915883526819890/CFy0wHfdt3CTfPnsLcmXdW-lKBQG5YZ9VIlS-j3vCyv2wuTVY54vrV6p5U6HwtfkdZzy";
-
-                WebClient client = new WebClient();
-                client.Headers.Add("Content-Type", "application/json");
-                string payload = "{\"content\": \"" + message + "\"}";
-                client.UploadData(webhook, Encoding.UTF8.GetBytes(payload));
-            }
-
-            SendMs("Someone just tweeked their pc 😊");
-
             label3.Text = "Tweaks Ran Enjoy 😊";
 
             panel3.Width = 1384;
